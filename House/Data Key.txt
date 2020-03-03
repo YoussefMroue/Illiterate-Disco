@@ -1,0 +1,4 @@
+0 - Didn't Vote
+1 - Present
+2 - Nay
+3 - Aye
